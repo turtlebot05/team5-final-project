@@ -1,11 +1,9 @@
 ---
-title: TurtleBot Final Project 
+title: TurtleBot Lane following with Deep Neural Networks (Computer Vision)
 ---
 
 
-# Project Title: TurtleBot Lane following with Deep Neural Networks (Computer Vision)
-
-**Team 5**
+** Team 5 Contributors: **
 
 |    Name                                |    Email    |
 | -----------                            | ----------- |
@@ -15,5 +13,8 @@ title: TurtleBot Final Project
 
 # Home
 
-## Introduction
-Legged motion is one of the most demanding movements in mobile robots. Interest in developing an artificial muscle for smooth legged motion.
+
+
+Final project repository for EGR598: Experimentation and Deployment of Robotic Systems using ROS II and TurtleBot. In this repository, you can find the code, documentation, and other resources related to our project, which focuses on developing and deploying lane following with Deep Neural Network using Python, ROS 2 and the TurtleBot platform.
+
+
