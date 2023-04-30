@@ -31,4 +31,4 @@ Final project repository for EGR598: Experimentation and Deployment of Robotic S
 
 
 
-<img src="/Images/path.jpg" alt="Alt Text 1" width="250" height="450" style="display: block; margin: 0 auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+<img src="/Images/path.jpg" alt="Alt Text" width="250" height="450" align='center'>
