@@ -1,6 +1,5 @@
----
-title: TurtleBot Lane following with Deep Neural Networks (Computer Vision)
----
+# TurtleBot Lane following with Deep Neural Networks (Computer Vision)
+
 
 
 ** Team 5 Contributors: **
@@ -8,12 +7,11 @@ title: TurtleBot Lane following with Deep Neural Networks (Computer Vision)
 |    Name                                |    Email    |
 | -----------                            | ----------- |
 | Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
-| Anirudh                     ||
-| Harkirat Singh Chahal          |           |
-
-# Home
+| Anirudh Varadarajan                    ||
+| Harkirat Singh Chahal                  |           |
 
 
+## Home
 
 Final project repository for EGR598: Experimentation and Deployment of Robotic Systems using ROS II and TurtleBot. In this repository, you can find the code, documentation, and other resources related to our project, which focuses on developing and deploying lane following with Deep Neural Network using Python, ROS 2 and the TurtleBot platform.
 
@@ -24,11 +22,6 @@ Final project repository for EGR598: Experimentation and Deployment of Robotic S
   <img src="/Images/turtlebot.jpg" alt="TurtleBot" style="width: 33%;">
 </div>
 
-
-
 <br><br>
-<br><br>
-
-
 
 <img src="/Images/path.jpg" alt="Path" width="250" height="450" align='center'>
