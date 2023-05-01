@@ -2,7 +2,7 @@
 
 
 
-** Team 5 Contributors: **
+** Project Contributors: **
 
 |    Name                                |        Email          |
 | -----------                            | --------------------- |
