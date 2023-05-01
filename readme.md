@@ -46,7 +46,7 @@ Note: Make sure to add your own pre-trained model weights in the workspace folde
 Our initial data collection code enables manual control of the TurtleBot using the keyboard and collects data in the form of images from the /color/preview/image topic and steering angles from the /cmd_vel topic. The data is saved every second as a .csv file with a unique timestamp extension for each data point. 
 
 
-#### [Machine Learning (Computer Vision) - Notebook]
+#### [Machine Learning (Computer Vision) - Notebook](Code/machine_learning.ipynb)
 
 
 #### [Steering angle prediction and deployment script](Code/vel_subscriber.py)
