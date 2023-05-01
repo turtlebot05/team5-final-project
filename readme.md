@@ -38,3 +38,18 @@ The impact of developing a neural network-based solution for autonomous path fol
 #### [Link to the full workspace](Code/final_ws.rar)
 We provide our full ROS II - Galactic workspace to run the project scripts for data collection and steering angle prediction.
 Note: Make sure to add your own pre-trained model weights in the workspace folder. 
+
+
+#### [Data Collection script](Code/data_collect.py)
+
+
+Our initial data collection code enables manual control of the TurtleBot using the keyboard and collects data in the form of images from the /color/preview/image topic and steering angles from the /cmd_vel topic. The data is saved every second as a .csv file with a unique timestamp extension for each data point. 
+
+
+#### [Machine Learning (Computer Vision) - Notebook]
+
+
+#### [Steering angle prediction and deployment script](Code/vel_subscriber.py)
+
+
+Our final code implements a machine learning model on the TurtleBot for lane/path following tasks. The input data is captured as images, and each frame is fed through the machine learning model to output a predicted steering value. The /cmd_vel topic uses this predicted steering value to adjust the TurtleBot's movement within the lane. This code is designed to enable efficient and accurate lane following with the TurtleBot platform using machine learning techniques.
