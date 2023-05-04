@@ -28,7 +28,7 @@ Final project repository for EGR598: Experimentation and Deployment of Robotic S
 
 <br>
 
-<img src="/Images/path.jpg" alt="Path" width="250" height="450" align='center'>
+<img src="./Images/path.jpg" alt="Path" width="250" height="450" align='center'>
 
 <br>
 
