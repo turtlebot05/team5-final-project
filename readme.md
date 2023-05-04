@@ -15,6 +15,10 @@
 
 Final project repository for EGR598: Experimentation and Deployment of Robotic Systems using ROS II and TurtleBot. In this repository, you can find the code, documentation, and other resources related to our project, which focuses on developing and deploying lane following with Deep Neural Network using Python, ROS 2 and the TurtleBot platform.
 
+## Project Overview
+
+[![Project Overview](https://img.youtube.com/vi/oVHWMr3W7dQ/0.jpg)](https://www.youtube.com/watch?v=oVHWMr3W7dQ)
+
 <br>
 
 <div style="display: flex;">
