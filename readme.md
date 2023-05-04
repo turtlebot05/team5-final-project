@@ -35,6 +35,10 @@ The impact of developing a neural network-based solution for autonomous path fol
 
 ## Project Code Files
 
+#### [Link to dataset]
+https://www.dropbox.com/scl/fo/lxusvspekpv4ozj5xrrr2/h?dl=0&rlkey=1yb1fyo3akn8ggwnnz4a0q54x
+
+
 #### [1. Link to the full workspace](Code/final_ws.rar)
 We provide our full ROS II - Galactic workspace to run the project scripts for data collection and steering angle prediction.
 Note: Make sure to add your own pre-trained model weights in the workspace folder. 
