@@ -23,6 +23,7 @@ Final project repository for EGR598: Experimentation and Deployment of Robotic S
 
 <div style="display: flex;">
   <img src="/Images/ros_snip.jpg" alt="ROSII snip" width = "500">
+  
   <img src="/Images/turtlebot.jpg" alt="TurtleBot" width = "275">
 </div>
 
@@ -30,7 +31,7 @@ Final project repository for EGR598: Experimentation and Deployment of Robotic S
 <!-- ![image caption](Images/path.jpg) -->
 
 
-<img src="/Images/path.jpg" width="250" height="450">
+<img src="/Images/path.jpg" alt="Path" width="250" height="450">
 
 <br>
 
