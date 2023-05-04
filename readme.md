@@ -35,7 +35,7 @@ The impact of developing a neural network-based solution for autonomous path fol
 
 ## Project Code Files
 
-#### [Link to dataset]
+#### Link to dataset
 https://www.dropbox.com/scl/fo/lxusvspekpv4ozj5xrrr2/h?dl=0&rlkey=1yb1fyo3akn8ggwnnz4a0q54x
 
 
